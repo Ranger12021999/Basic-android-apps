@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.bhai.aman.speech_text.MainActivity">
+    <item
+        android:id="@+id/ttos"
+        android:title="Text to Speech" />
+    <item
+        android:id="@+id/stot"
+        android:title="Speech to Text" />
+</menu>
